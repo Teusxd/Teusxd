@@ -1,5 +1,7 @@
 ## Olá! Eu sou o Matheus Costa
 
+![snake gif](https://github.com/Teusxd/Teusxd/blob/output/github-contribution-grid-snake.gif)
+
 - 🔭 Hoje trabalho como ajudante operacional
 - 🌱 Estudando Java
 - 👯 Contate-me no email: matheus34152@gmail.com
