@@ -1,7 +1,5 @@
 ## Olá! Eu sou o Matheus Costa
 
-![snake gif](https://github.com/Teusxd/Teusxd/blob/output/github-contribution-grid-snake.gif)
-
 - 🔭 Hoje trabalho como ajudante operacional
 - 🌱 Estudando Java
 - 👯 Contate-me no email: matheus34152@gmail.com
@@ -23,3 +21,4 @@
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div
 
+![snake gif](https://github.com/Teusxd/Teusxd/blob/output/github-contribution-grid-snake.gif)
